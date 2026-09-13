@@ -1,16 +1,23 @@
-## Hi there 👋
+<div>
+  <h1>Shin Honggyu</h1>
+  <p> <b>"목소리 한 번 내고 가죠!"</b> </p>
+</div>
 
-<!--
-**lunxkoe/lunxkoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### EDUCATION 
+**Konkuk University** | Seoul, Republic of Korea
+* **Major:** Computer Science and Engineering
+* **Period:** March 2020 ~ February 2027
+* **Exploring**: Web Server Engineering(Main), Computer Vision(Sub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### SKILLS SUMMARY
+
+> Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java 17-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
