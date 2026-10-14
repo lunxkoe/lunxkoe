@@ -77,6 +77,9 @@
 </table>
 
 <h2>Contact</h2>
-<ul>
-  <li>Email: <a href="mailto:lunxkoe@gmail.com">lunxkoe@gmail.com</a></li>
-</ul>
+<table>
+  <tr>
+    <td><b>Email</b></td>
+    <td><a href="mailto:lunxkoe@gmail.com">lunxkoe@gmail.com</a></td>
+  </tr>
+</table>
