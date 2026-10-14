@@ -23,19 +23,19 @@
 <h2>Tech Stack</h2>
 <table>
   <tr>
-    <td><b>Language</b></td>
+    <td><b>언어</b></td>
     <td>Java, SQL</td>
   </tr>
   <tr>
-    <td><b>Framework</b></td>
+    <td><b>프레임워크</b></td>
     <td>Spring, JPA, QueryDSL</td>
   </tr>
   <tr>
-    <td><b>Storage</b></td>
+    <td><b>저장소</b></td>
     <td>MySQL, PostgreSQL, Redis</td>
   </tr>
   <tr>
-    <td><b>Experience</b></td>
+    <td><b>경험</b></td>
     <td>Python, FastAPI, Celery</td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
 <h2>Contact</h2>
 <table>
   <tr>
-    <td><b>Email</b></td>
+    <td><b>이메일</b></td>
     <td><a href="mailto:lunxkoe@gmail.com">lunxkoe@gmail.com</a></td>
   </tr>
 </table>
